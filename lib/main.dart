@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Package Riverpod Counter'),
+      home: const MyHomePage(title: 'Flutter Package Getx Counter'),
     );
   }
 }
